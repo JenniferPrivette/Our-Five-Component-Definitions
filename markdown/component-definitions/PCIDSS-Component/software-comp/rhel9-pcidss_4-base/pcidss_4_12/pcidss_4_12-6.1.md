@@ -22,6 +22,7 @@ ______________________________________________________________________
 
 ## What is the solution and how is it implemented?
 
+Red Hat requires all associates to complete annual manditory training on information security concepts. This traiing includes associates to review the Red Hat Information Security Policy and Procedures policy.
 <!-- For implementation status enter one of: implemented, partial, planned, alternative, not-applicable -->
 
 <!-- Note that the list of rules under ### Rules: is read-only and changes will not be captured after assembly to JSON -->
@@ -32,6 +33,6 @@ ______________________________________________________________________
 
   - rule-pcidss_4_12-6.1
 
-### Implementation Status: planned
+### Implementation Status: implemented
 
 ______________________________________________________________________
